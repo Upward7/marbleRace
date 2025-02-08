@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marbleRace/static/css/main.969c8e82.css",
+    "main.js": "/marbleRace/static/js/main.29cddcc5.js",
+    "index.html": "/marbleRace/index.html",
+    "main.969c8e82.css.map": "/marbleRace/static/css/main.969c8e82.css.map",
+    "main.29cddcc5.js.map": "/marbleRace/static/js/main.29cddcc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.969c8e82.css",
+    "static/js/main.29cddcc5.js"
+  ]
+}

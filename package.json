@@ -1,0 +1,37 @@
+{
+  "name": "marble-race",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "/marbleRace/",
+  "scripts": {
+    "dev": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@react-three/drei": "9.50",
+    "@react-three/fiber": "8.9",
+    "@react-three/postprocessing": "2.7",
+    "@react-three/rapier": "^0.9.0",
+    "react": "^18.3.1",
+    "react-dom": "18.2",
+    "react-scripts": "5.0",
+    "three": "^0.148.0",
+    "zustand": "4.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
